@@ -7,3 +7,5 @@ modify second times
 modify third times
 
 modify again
+
+git status
